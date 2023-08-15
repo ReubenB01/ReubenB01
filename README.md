@@ -1,17 +1,13 @@
-# Hi, I'm Reuben 👋
-### Undergraduate at University of Canterbury
-I am a bachelor of science Majoring in statistics with a computer science minor
-<!--
-**ReubenB01/ReubenB01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Reuben
+#### Undergraduate at University of Canterbury
+![Undergraduate at University of Canterbury](https://upload.wikimedia.org/wikipedia/commons/d/d7/UC_Red_Landscape_Te_Reo_RGB.jpg)
 
-Here are some ideas to get you started:
+Bachelor of science with statistics major and computer science minor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: R / Python / SQL / Prolog / C
+
+- 📫 How to reach me: reubenbrown01@gmail.com 
+
+
+
+
