@@ -1,5 +1,5 @@
-### Hi, I'm Reuben 👋
-# Undergraduate at University of Canterbury
+# Hi, I'm Reuben 👋
+### Undergraduate at University of Canterbury
 I am a bachelor of science Majoring in statistics with a computer science minor
 <!--
 **ReubenB01/ReubenB01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
